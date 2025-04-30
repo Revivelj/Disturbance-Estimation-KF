@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c562adae2ea1e9987dd5644ad41ec609cd3d8f680017d3b18991c26dd44a79a
-size 128
+DEKF.mp4 filter=lfs diff=lfs merge=lfs -text
